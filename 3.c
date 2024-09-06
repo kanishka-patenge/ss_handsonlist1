@@ -3,10 +3,7 @@
 Name : 3.c
 Author : Patenge Kanishka
 Description :
-1. Create the following types of a files using (i) shell command (ii) system call
-a. soft link (symlink system call)
-b. hard link (link system call)
-c. FIFO (mkfifo Library Function or mknod system call)
+3. Write a program to create a file and print the file descriptor value. Use creat ( ) system call
 
 Date : 8th August 2024
 ===================================================================================================================================================================================
